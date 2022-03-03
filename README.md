@@ -1,5 +1,7 @@
 ### Hi there 👋
 ### Thanks for visiting my profile. I'm a software engineer.
+![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=talemul&theme=chartreuse-dark)
+
 <!--
 **talemul/talemul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
