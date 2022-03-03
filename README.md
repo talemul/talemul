@@ -1,5 +1,12 @@
 ### Hi there 👋
 ### Thanks for visiting my profile. I'm a software engineer.
+## How to reach me:
+- Facebook: https://www.facebook.com/talemul
+- Blog: https://dev.to/talemul
+- Twitter: https://twitter.com/talemulislam
+- GitHub: https://github.com/talmul
+- LinkedIn: https://www.linkedin.com/in/talemul
+- Email: talemulwi@gmail.com
 ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=talemul&theme=chartreuse-dark)
 
 <!--
