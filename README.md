@@ -7,6 +7,8 @@
 - GitHub: https://github.com/talmul
 - LinkedIn: https://www.linkedin.com/in/talemul
 - Email: talemulwi@gmail.com
+
+
 ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=talemul&theme=chartreuse-dark)
 
 <!--
