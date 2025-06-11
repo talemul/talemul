@@ -62,7 +62,7 @@ Experienced and inclusive **Software Architect** with 11+ years of full-stack ex
 - 📧 talemul@yahoo.com 
 - 🧾 [Verified Laravel Certification](https://verifier.certificationforlaravel.org/d6b488ce-6c78-473f-9015-8b96d5ad644c)  
 - 📘 [Facebook](https://www.facebook.com/talemul)  
-- 📝 [Blog](https://dev.to/talemul)  
+- 📝 [Blog- dev.to/talemul](https://dev.to/talemul)  
 - 🐦 [Twitter](https://twitter.com/talemulislam)  
 - 💻 [GitHub](https://github.com/talmul)
 
